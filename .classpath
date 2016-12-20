@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="target/LogPlay/WEB-INF/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="target/LogPlay/WEB-INF/lib/jackson-core-2.5.0.jar"/>
+	<classpathentry kind="lib" path="target/LogPlay/WEB-INF/lib/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="target/LogPlay/WEB-INF/lib/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="target/LogPlay/WEB-INF/lib/raven-6.0.0.jar"/>
+	<classpathentry kind="lib" path="target/LogPlay/WEB-INF/lib/raven-logback-6.0.0.jar"/>
+	<classpathentry kind="lib" path="target/LogPlay/WEB-INF/lib/slf4j-api-1.7.9.jar"/>
+	<classpathentry kind="lib" path="src/main/resources"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
